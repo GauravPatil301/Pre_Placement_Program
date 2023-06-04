@@ -9,3 +9,5 @@
 ## Assignment 3 - Arrays
 ### [Link](https://github.com/GauravPatil301/Pre_Placement_Program/blob/main/Lecture3-Arrays/Assignment/lecture3_Arrays.js)
 
+## Assignment 3 - Arrays
+### [Link](https://github.com/GauravPatil301/Pre_Placement_Program/blob/main/Lecture4-2dArrays/Assignment/Lecture4-2dArrays.js)
