@@ -20,3 +20,6 @@
 
 ## Assignment 7 - String
 ### [Link](https://github.com/GauravPatil301/Pre_Placement_Program/blob/main/Lecture7-string/assignment7.js)
+
+## Assignment 8 - String
+### [Link](https://github.com/GauravPatil301/Pre_Placement_Program/blob/main/Lecture8-string/assignment.js)
