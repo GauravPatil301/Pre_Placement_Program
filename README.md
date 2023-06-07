@@ -23,3 +23,6 @@
 
 ## Assignment 8 - String
 ### [Link](https://github.com/GauravPatil301/Pre_Placement_Program/blob/main/Lecture8-string/assignment.js)
+
+## Assignment 9 - Recursion
+### [Link](https://github.com/GauravPatil301/Pre_Placement_Program/blob/main/Lecture9-recursion/assignment.js)
