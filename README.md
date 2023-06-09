@@ -29,3 +29,8 @@
 
 ## Assignment 10 - Recursion
 ### [Link](https://github.com/GauravPatil301/Pre_Placement_Program/blob/main/Lecture10-recursion/assignment10.js)
+
+
+## Assignment 10 - Recursion
+### [Link](https://github.com/GauravPatil301/Pre_Placement_Program/blob/main/Lecture11-binarysearch/assignment.js)
+
